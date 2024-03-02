@@ -1,4 +1,4 @@
-a = 4
+a = 10
 b = 5
-suma = a + b
-print(suma)
+resta = a - b
+print(resta)
