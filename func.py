@@ -1,6 +1,7 @@
 
 nombre = "Estuardo"
-edad = 25
+edad = 28
 apellido = "herrera"
 saludo = "Hola " + nombre + " " + edad + " " + apellido
 print(saludo)
+s
