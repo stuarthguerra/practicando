@@ -1,4 +1,2 @@
-a = 10
-b = 5
-resta = a - b
-print(resta)
+resultado = 4 -2
+print(resultado)
